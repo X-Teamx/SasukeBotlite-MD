@@ -9,8 +9,8 @@ import moment from 'moment-timezone'
 import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 
 global.owner = [
-['', '𝐒𝐔𝐍𝐆 𝐃𝐄𝐕', true],
-['', '𝐊𝐀𝐊𝐀𝐒𝐇𝐈 𝐃𝐄𝐕', true]]
+['201210294771', '𝐒𝐔𝐍𝐆 𝐃𝐄𝐕', true],
+['201153573240', '𝐊𝐀𝐊𝐀𝐒𝐇𝐈 𝐃𝐄𝐕', true]]
 
 global.mods = [] 
 global.prems = []
@@ -77,8 +77,8 @@ global.author = '𝐗 𝐓𝐄𝐀𝐌'
 global.policyGB = 'github.com/X-Teamx/SasukeBotLite-MD/blob/master/terms.md'
 
 global.official = [ 
-['593968263524','𝐒𝐔𝐍𝐆 𝐃𝐄𝐕', 1], 
-['573147616444', '𝐊𝐀𝐊𝐀𝐒𝐇𝐈 𝐃𝐄𝐕', 1]] 
+['201210294771','𝐒𝐔𝐍𝐆 𝐃𝐄𝐕', 1], 
+['201153573240', '𝐊𝐀𝐊𝐀𝐒𝐇𝐈 𝐃𝐄𝐕', 1]] 
 
 global.mail = '' 
 global.desc = '' 
@@ -104,9 +104,7 @@ global.notsent = '❗'
 global.waitemot = '⌛'
 global.waitemot2 = '⏳'
 
-global.multiplier = 60 // Cuanto más alto, más difícil subir de nivel
-
-// IDs de canales
+global.multiplier = 60 
 global.ch = {
 ch1: '120363336642332098@newsletter',
 ch2: '120363160031023229@newsletter',
