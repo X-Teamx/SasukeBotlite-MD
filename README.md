@@ -2,7 +2,7 @@
 
 # `مرحبا بك في سـاسـكـي بوت واتساب عربي` 
 <p align="center">
-<img src="https://telegra.ph/file/07278454f366641c0ce34.jpg" alt="⁨𝐗 𝐓𝐄𝐀𝐌" width="900"/>
+<img src="https://qu.ax/MaahD.jpg" alt="⁨𝐗 𝐓𝐄𝐀𝐌" width="900"/>
 </p>
 
 ------------------
