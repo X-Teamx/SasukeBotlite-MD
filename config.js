@@ -106,16 +106,16 @@ global.waitemot2 = '⏳'
 
 global.multiplier = 60 
 global.ch = {
-ch1: '120363336642332098@newsletter',
-ch2: '120363160031023229@newsletter',
-ch3: '120363169294281316@newsletter',
-ch4: '120363203805910750@newsletter',
-ch5: '120363302472386010@newsletter',
-ch6: '120363301598733462@newsletter',
-ch7: '120363190430436554@newsletter',
-ch8: '120363374372683775@newsletter', 
-ch9: '120363167110224268@newsletter',
-ch10: '120363323882134704@newsletter',
+ch1: '120363369835823519@newsletter',
+ch2: '120363369835823519@newsletter',
+ch3: '120363369835823519@newsletter',
+ch4: '120363369835823519@newsletter',
+ch5: '120363369835823519@newsletter',
+ch6: '120363369835823519@newsletter',
+ch7: '120363369835823519@newsletter',
+ch8: '120363369835823519@newsletter', 
+ch9: '120363369835823519@newsletter',
+ch10: '120363369835823519@newsletter',
 }
 
 let file = fileURLToPath(import.meta.url)
