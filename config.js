@@ -74,11 +74,10 @@ global.moment = moment
 
 global.packname = 'elgzawy-bot'
 global.author = 'elgzawy-bot'
-global.policyGB = 'github.com/X-Teamx/SasukeBotLite-MD/blob/master/terms.md'
+global.policyGB = 'انت عايز تسرق تعبي🤨'
 
 global.official = [ 
-['201210294771','عامله لوحدي و بطولي🙂', 1], 
-['201153573240', 'لوحدي باردك🙂', 1]] 
+['201154260079','رقم المطور', 1], 
 
 global.mail = '' 
 global.desc = '' 
