@@ -72,24 +72,24 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝐒𝐀𝐒𝐔𝐊𝐄𝐁𝐎𝐓𝐋𝐈𝐓𝐄-𝐌𝐃'
-global.author = '𝐗 𝐓𝐄𝐀𝐌'
+global.packname = 'elgzawy-bot'
+global.author = 'elgzawy-bot'
 global.policyGB = 'github.com/X-Teamx/SasukeBotLite-MD/blob/master/terms.md'
 
 global.official = [ 
-['201210294771','𝐒𝐔𝐍𝐆 𝐃𝐄𝐕', 1], 
-['201153573240', '𝐊𝐀𝐊𝐀𝐒𝐇𝐈 𝐃𝐄𝐕', 1]] 
+['201210294771','عامله لوحدي و بطولي🙂', 1], 
+['201153573240', 'لوحدي باردك🙂', 1]] 
 
 global.mail = '' 
 global.desc = '' 
 global.desc2 = ''
-global.country = '🇪🇬' 
+global.country = '🥂⛧!ام الدنيا' 
 global.vs = '1.0'
 global.vsJB = '5.0'
-global.gt = '𝐒𝐀𝐒𝐔𝐊𝐄𝐁𝐎𝐓𝐋𝐈𝐓𝐄-𝐌𝐃'
+global.gt = elgzawy-bot'
 
-global.wm = '𝐒𝐀𝐒𝐔𝐊𝐄𝐁𝐎𝐓𝐋𝐈𝐓𝐄-𝐌𝐃 - 𝐗 𝐓𝐄𝐀𝐌'
-global.igfg = '𝐒𝐀𝐒𝐔𝐊𝐄𝐁𝐎𝐓𝐋𝐈𝐓𝐄-𝐌𝐃'
+global.wm = 'elgzawy-bot'
+global.igfg = 'elgzawy-bot'
 global.nomorown = owner[0][0]
 
 global.htki = '*⭑•̩̩͙⊱•••• ☪*'
