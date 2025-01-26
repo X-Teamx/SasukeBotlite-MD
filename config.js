@@ -9,8 +9,8 @@ import moment from 'moment-timezone'
 import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 
 global.owner = [
-['201210294771', '𝐒𝐔𝐍𝐆 𝐃𝐄𝐕', true],
-['201153573240', '𝐊𝐀𝐊𝐀𝐒𝐇𝐈 𝐃𝐄𝐕', true]]
+['20𝟏𝟏𝟓𝟒𝟐𝟔𝟎𝟎𝟕𝟗', 'ELGEZAWY', true],
+['20 11 55413518', 'TETO', true]]
 
 global.mods = [] 
 global.prems = []
@@ -72,8 +72,8 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = 'elgzawy-bot'
-global.author = 'elgzawy-bot'
+global.packname = 'EL𝟑TWLABOT'
+global.author = 'EL𝟑TWLABOT'
 global.policyGB = 'انت عايز تسرق تعبي🤨'
 
 global.official = [ 
@@ -85,10 +85,10 @@ global.desc2 = ''
 global.country = '🥂⛧!ام الدنيا' 
 global.vs = '1.0'
 global.vsJB = '5.0'
-global.gt = elgzawy-bot'
+global.gt = EL𝟑TWLABOT'
 
-global.wm = 'elgzawy-bot'
-global.igfg = 'elgzawy-bot'
+global.wm = 'EL𝟑TWLABOT'
+global.igfg = 'EL𝟑TWLABOT'
 global.nomorown = owner[0][0]
 
 global.htki = '*⭑•̩̩͙⊱•••• ☪*'
