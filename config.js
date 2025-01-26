@@ -11,6 +11,7 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 global.owner = [
 ['20𝟏𝟏𝟓𝟒𝟐𝟔𝟎𝟎𝟕𝟗', 'ELGEZAWY', true],
 ['20 11 55413518', 'TETO', true]]
+['213 773 59 50 20 ', 'medo alex', true]]
 
 global.mods = [] 
 global.prems = []
