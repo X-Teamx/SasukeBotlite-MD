@@ -57,7 +57,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                     title: '⌈📖╎الــقــوائـــم╎📖⌋',
                                     sections: [
                                         {
-                                            title: 'اهـلا بـك ف، ي بـوت سـاسـكـي 👥',
+                                            title: 'اهـلا بـك ف، ي بـوت آلعــتآؤله',
                                             highlight_label: 'الـيـك الـقـوائـم',
                                             rows: [
                                                 {
@@ -104,7 +104,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                      },
                      {
                name: "cta_url",
-               buttonParamsJson: '{"display_text":"⌈💻╎قـنـاة الــبــوت╎💻⌋","url":"https://whatsapp.com/channel/0029Vb2JwCbDZ4LT5tWVfP2J","merchant_url":"https://whatsapp.com/channel/0029Vb2JwCbDZ4LT5tWVfP2J"}'
+               buttonParamsJson: '{"display_text":"⌈💻╎قـنـاة الــبــوت╎💻⌋","url":"https://chat.whatsapp.com/JHTgaaCWH4nDzM7BtOExfh","merchant_url":"https://whatsapp.com/channel/0029Vb2JwCbDZ4LT5tWVfP2J"}'
                             }
                         ]
                     }
